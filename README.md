@@ -1,2 +1,2 @@
-# shiny-happiness.com
+# vit-project.com
 Website
